@@ -1,4 +1,16 @@
 {
   "version": 1,
-  "games": []
+  "games": [
+    {
+      "id": "block-battle",
+      "title": "Block Battle",
+      "description": "A PVP Block Game Inspired By The Minigames By 4j Studios.",
+      "developer": "MES Development",
+      "tags": ["action", "pvp"],
+      "downloadUrl": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/block-battle.zip",
+      "version": "1.0.0",
+      "featured": true,
+      "releaseDate": "2026-11-15"
+    }
+  ]
 }
