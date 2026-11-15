@@ -7,6 +7,7 @@
       "description": "A PVP Block Game Inspired By The Minigames By 4j Studios.",
       "developer": "MES Development",
       "tags": ["action", "pvp"],
+      "thumbnail": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/block-battle-thumb.png",
       "downloadUrl": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/block-battle.zip",
       "version": "1.0.0",
       "featured": true,
