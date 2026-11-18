@@ -13,39 +13,6 @@
       "version": "1.0.0",
       "featured": true,
       "releaseDate": "2026-11-15"
-    },
-    {
-      "id": "chernobyl-second-sun",
-      "title": "Chernobyl: Second Sun",
-      "description": "The Chernobyl Reactor Exploded Out Of Nowhere A Seccond Time. Its Up To You To Find The Truth...",
-      "developer": "MES Development",
-      "tags": [],
-      "thumbnail": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/chernobyl-second-sun-thumb.png",
-      "downloadUrl": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/chernobyl-second-sun.zip",
-      "version": "1.0.0",
-      "featured": false
-    },
-    {
-      "id": "frostline",
-      "title": "Frostline",
-      "description": "Race the mountain at speed in this high-octane downhill sled runner.",
-      "developer": "MES Development",
-      "tags": [],
-      "thumbnail": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/frostline-thumb.png",
-      "downloadUrl": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/frostline.zip",
-      "version": "1.0.0",
-      "featured": false
-    },
-    {
-      "id": "neon-drifter-overdrive",
-      "title": "Neon Drifter: Overdrive",
-      "description": "Neon Drifter Is A Simple Open World Driving Simulator With Over 25 Modes!",
-      "developer": "MES Development",
-      "tags": [],
-      "thumbnail": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/neon-drifter-overdrive-thumb.png",
-      "downloadUrl": "https://raw.githubusercontent.com/MaxEatsSoap/mes-games/refs/heads/main/neon-drifter-overdrive.zip",
-      "version": "1.0.0",
-      "featured": false
     }
   ]
 }
